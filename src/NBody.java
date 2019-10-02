@@ -1,7 +1,7 @@
 	
 
 /**
- * @author YOUR NAME THE STUDENT IN 201
+ * @author Angelo Guo
  * 
  * Simulation program for the NBody assignment
  */
